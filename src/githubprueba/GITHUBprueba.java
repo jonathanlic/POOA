@@ -15,6 +15,10 @@ public class GITHUBprueba {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println(" Jonathan Rodriguez ");
+        System.out.println(" Andres Espinoza ");
+        System.out.println(" Francisco Dominguez ");
+        
     }
     
 }
